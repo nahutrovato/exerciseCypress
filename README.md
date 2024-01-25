@@ -19,6 +19,10 @@ Install the dependencies and devDependencies and start the Cypress runner.
 ```sh
 npm install
 ```
+After that you can open the project
+```sh
+npx cypress open
+```
 
 ## Plugins
 
