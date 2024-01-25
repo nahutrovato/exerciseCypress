@@ -1,0 +1,21 @@
+{
+  "name": "exercise-3",
+  "version": "1.0.0",
+  "description": "Exercise 3 - Qubika",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Test",
+    "framework",
+    "cypress",
+    "qa",
+    "automation"
+  ],
+  "author": "Nahuel Trovato",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.3"
+  }
+}
